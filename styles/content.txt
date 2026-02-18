@@ -1,0 +1,116 @@
+Company: VantaGrid Security
+
+Tagline: Secure by design. Resilient by default.
+
+Overview
+
+VantaGrid Security is a future-focused cybersecurity studio that helps organizations stay safe in a world where AI-generated attacks, autonomous malware, and hyper-connected devices are normal. We combine threat research, practical engineering, and clear communication to reduce risk without slowing teams down.
+
+Mission
+
+Make advanced security simple, measurable, and built into everyday work.
+
+Vision
+
+A future where security feels invisible to users, obvious to defenders, and expensive for attackers.
+
+Values
+
+Clarity over fear: No panic language, just facts and priorities.
+
+Privacy by default: Collect less, protect more.
+
+Resilience over perfection: Assume incidents happen and design to recover fast.
+
+Proof over promises: Every claim backed by tests, logs, and results.
+
+What makes us different
+
+We don’t sell “security vibes.” We ship security systems: hardened cloud setups, measurable controls, tested incident plans, and training that actually changes behavior.
+
+Services
+1) Threat Modeling and Risk Mapping
+
+We map your systems, data flows, and real-world attacker paths. You get a risk register that’s understandable, ranked, and tied to fixes your team can complete.
+
+Deliverables: architecture map, risk scores, prioritized fixes, executive summary.
+
+2) Cloud and API Hardening
+
+We lock down cloud accounts, containers, CI/CD pipelines, and APIs. We focus on identity, secrets, segmentation, logging, and safe defaults.
+
+Deliverables: hardened configurations, IAM cleanup, secure CI templates, logging + alerting baseline.
+
+3) Penetration Testing and Red Team Sprints
+
+We simulate real attacks against web apps, mobile apps, and internal networks. Findings come with clear reproduction steps and fixes, plus a retest.
+
+Deliverables: technical report, severity ratings, fix guidance, retest confirmation.
+
+4) AI Security and Model Protection
+
+We test AI features for data leakage, prompt injection, unsafe tool use, and training data risks. We also design guardrails and monitoring.
+
+Deliverables: AI risk assessment, guardrail design, abuse tests, monitoring plan.
+
+5) Incident Readiness and Response
+
+We build an incident playbook that matches your tools and team. If something happens, we help contain, investigate, recover, and learn.
+
+Deliverables: incident runbooks, tabletop exercise, response checklist, post-incident report template.
+
+6) Security Training for Real Teams
+
+Short, practical training that fits how people work: phishing resistance, passwordless habits, safe sharing, and what to do when something feels off.
+
+Deliverables: workshops, quick guides, internal posters, monthly micro-drills.
+
+Industries we work with
+
+Fintech, healthcare, logistics, e-commerce, universities, and startups building AI features.
+
+Process
+Step 1: Discovery
+
+We learn what matters: business goals, key assets, current tools, and constraints.
+
+Step 2: Assessment
+
+We test systems, review configs, and validate risks with evidence.
+
+Step 3: Fix and Harden
+
+We help your team implement changes fast, with minimal disruption.
+
+Step 4: Prove and Monitor
+
+We verify improvements, set alerts, and track progress over time.
+
+Team
+Nadia Al-Khouri — Security Architect
+
+Nadia designs secure cloud and identity systems that scale. She’s focused on clean IAM, safe deployment pipelines, and building guardrails teams won’t bypass.
+
+Hashtags: #cloudsecurity #iam #devsecops
+
+Omar Verma — Offensive Security Lead
+
+Omar runs penetration tests and red team sprints with a focus on real attacker behavior. He translates findings into fixes developers can actually ship.
+
+Hashtags: #pentest #redteam #appsec
+
+Lina Park — Threat Researcher
+
+Lina tracks emerging threats like AI-driven social engineering and supply-chain attacks. She turns research into practical detection rules and hardening guides.
+
+Hashtags: #threatintel #detection #research
+
+Yusuf Mensah — Incident Response Engineer
+
+Yusuf builds incident playbooks and leads response when things go wrong. His priority is containment, clean recovery, and making sure the same issue doesn’t return.
+
+Hashtags: #incidentresponse #forensics #resilience
+
+Social link labels (for your footer)
+
+X (Twitter), LinkedIn, GitHub, YouTube, Instagram, Discord
